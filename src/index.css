@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-color: rgb(216, 196, 130);
+  }
+  .container{
+    max-width: 1200px;
+    margin: auto;
+  }
+  
